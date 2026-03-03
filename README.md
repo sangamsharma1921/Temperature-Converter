@@ -41,4 +41,4 @@ Click the Submit button.
 The result will be displayed in Fahrenheit.
 
 Live Demo :
-https://github.com/sangamsharma1921/Temperature-Converter.git
+https://sangamsharma1921.github.io/Temperature-Converter/
