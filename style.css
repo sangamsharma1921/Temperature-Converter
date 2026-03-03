@@ -1,0 +1,17 @@
+body {
+    background-color: #74ebd5;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+#submit {
+    padding: 10px;
+    background-color: #4CAF50;
+    color: white;
+    cursor: pointer;
+}
+submit:hover{
+    background-color: #a9337c;
+}
+#label {
+    font-size: large;
+}
